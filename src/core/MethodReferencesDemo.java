@@ -1,3 +1,6 @@
+/*
+* More can be found at https://github.com/gowthamgutha/java-demos/
+*/
 import java.util.*;
 public class MethodReferencesDemo
 {
